@@ -38,6 +38,7 @@ If user want to **go back the second scene** which is filled by multiple colorfu
 
 **Screen Shoots**
 ------
+
 First Scene
 ![screenshot1](https://user-images.githubusercontent.com/27960189/50531279-4137d280-0ad5-11e9-8136-815c0b592813.png)
 ![screenshot2](https://user-images.githubusercontent.com/27960189/50531134-590e5700-0ad3-11e9-9f80-7b983161aca4.png)
