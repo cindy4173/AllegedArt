@@ -1,9 +1,9 @@
 # AllegedArt
 The program includes five scenes, and all of them are abstract art. 
 
-**Created by Processing with Java. **
+Created by Processing with Java. 
 
-**Download zip. file and extract. Open file by Processing and click yes when window pop up. **
+Download zip. file and extract. Open file by Processing and click yes when window pop up. 
 
 **Users can create or change the art by themselves.**
 
